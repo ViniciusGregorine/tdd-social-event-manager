@@ -16,3 +16,4 @@
 - Dependency Injection (DI)
 - Repository Pattern 
 - Test Doubles (Mock)
+- small commits 
