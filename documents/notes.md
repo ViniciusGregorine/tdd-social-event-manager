@@ -10,5 +10,9 @@
 ## Design Patterns/Principles/Conventions
 - You Ain't Gonna Need it (YAGNI)
 - Single Responsability principle (SRP)
+- Liskov Substitution Principle (LSP)
+- Dependency Inversion Principle (DIP)
 - Arrange, Act, Assert (AAA)
 - Dependency Injection (DI)
+- Repository Pattern 
+- Test Doubles (Mock)
